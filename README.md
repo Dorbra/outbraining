@@ -5,7 +5,7 @@ core-interview-exercise
 
 Coding Language: *Python (3.7)*
 
-**_1) OutRain -_* *
+**_1) OutRain -_**
 
 *Dependencies:*
 * _ipinfo_ Python library - Can be done using only 'requests' ofcourse, but used for sake of mixture and simpler coordinates.
