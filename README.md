@@ -7,9 +7,9 @@ Coding Language: *Python (3.7)*
 
 *_1) OutRain -_* 
 
-Dependencies:
-* ipinfo* Python library - Can be done using only 'requests' ofcourse, but used for sake of mixture and simpler coordinates.
-* requests - http/api requests.
+_Dependencies:_
+* _ipinfo_ Python library - Can be done using only 'requests' ofcourse, but used for sake of mixture and simpler coordinates.
+* _requests_ - http/api requests.
 
 - First creating Ip class and initiating setup, getting IP to specific request, bringing back country,city and coors.
 - Calling OpenWeather API with params, requesting weather using coordinates for better accuracy, in C'.
