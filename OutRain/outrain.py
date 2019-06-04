@@ -1,4 +1,4 @@
-#!usr/env/bin
+#!usr/bin/env
 import ipinfo
 import requests
 
