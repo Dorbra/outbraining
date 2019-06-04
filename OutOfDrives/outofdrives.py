@@ -1,3 +1,4 @@
+#!/usr/bin/env
 import csv
 
 # read the CSV file and find the Offline-Drivers
